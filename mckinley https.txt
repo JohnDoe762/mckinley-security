@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>McKinley Security</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #111;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      display: flex;
+      justify-content: center;
+    }
+    nav a {
+      color: #fff;
+      padding: 14px 20px;
+      text-decoration: none;
+      display: inline-block;
+    }
+    nav a:hover {
+      background-color: #444;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #111;
+      color: #fff;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>McKinley Security</h1>
+    <p>Inovação | Disrupção | Segurança</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre Nós</h2>
+    <p> Visão estratégica com propósito transformador.
+
+Enxergamos soluções onde a maioria só vê problemas, e mais do que isso, direcionamos nossas soluções para salvar vidas, reduzir riscos e impactar positivamente a sociedade, com foco claro em viabilidade, inovação e responsabilidade.</p>
+  </section>
+
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>Desenvolvimento de projetos inovadores e disruptivos</li>
+      <li>Consultoria em segurança privada, do trabalho, industrial, NR-12 e NR-20</li>
+      <li>Projetos personalizados para empresas e governos</li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Email: isac.souza.alves@gmail.com<br>
+    Telefone: (11) 979625774</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 McKinley Security - 60.946.819/0001-78 - Todos os direitos reservados</p>
+  </footer>
+
+</body>
+</html>
