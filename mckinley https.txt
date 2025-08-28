@@ -6,7 +6,7 @@
   <title>McKinley Security</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: Calibri, sans-serif;
       margin: 0;
       padding: 0;
       background-color: #f4f4f4;
@@ -73,8 +73,8 @@ Enxergamos soluções onde a maioria só vê problemas, e mais do que isso, dire
   <section id="servicos">
     <h2>Serviços</h2>
     <ul>
-      <li>Desenvolvimento de projetos inovadores e disruptivos</li>
-      <li>Consultoria em segurança privada, do trabalho, industrial, NR-12 e NR-20</li>
+      <li>Prototipagem e desenvolvimento de sistemas de segurança</li>
+      <li>Consultoria em segurança privada e do trabalho</li>
       <li>Projetos personalizados para empresas e governos</li>
     </ul>
   </section>
@@ -82,7 +82,8 @@ Enxergamos soluções onde a maioria só vê problemas, e mais do que isso, dire
   <section id="contato">
     <h2>Contato</h2>
     <p>Email: isac.souza.alves@gmail.com<br>
-    Telefone: (11) 979625774</p>
+    Telefone: (11) 979625774
+    linktr.ee/McKinley_Security</p>
   </section>
 
   <footer>
